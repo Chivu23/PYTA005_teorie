@@ -1,0 +1,3 @@
+Hello World!
+Acesta este primul fisier txt
+ cu care invatam sa interactionam.
